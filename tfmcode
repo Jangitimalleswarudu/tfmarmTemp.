@@ -1,4 +1,5 @@
 ARM_ Environment Variables:
+MalleswarITSol
 For these type of environment variables, declaration is not required, directly we can set up using ARM_ and use it. 
 a) For storage account use, ARM_ACCESS_KEY only to set as environment variable:
 #export ARM_ACCESS_KEY="give value here" and use it without any declaration in the tf files.
